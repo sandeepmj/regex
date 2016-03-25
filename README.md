@@ -1,2 +1,3 @@
-# Intro to Regular Expressions and how it can help journalists
-# regex-intro
+# # Intro to Regular Expressions
+
+1. Open [Presentation](http://bit.ly/regex-intro)
