@@ -1,8 +1,8 @@
 1234 123  aba abba abbba, abbbbba, abcde.The dog is a not a hog. 
 
-Ab_CD123  123456 and 12456	tor 12531245134562. 123867584789 
+Ab_CD123  123456 and 12456	tor 12531245134562. 123867584789. $40.44 or $3 
 
-This is a cat.
+The cat sat down. This is a cat.
 
 AB_cd 	+-.,!@# $%^&*();\/|_^
 
@@ -11,4 +11,7 @@ AB_cd 	+-.,!@# $%^&*();\/|_^
 
 abcdefgczhijklmn	ABCDEFGCZHIJKLMN 
 
-A h0g is a hog.  &^%@ 123 
+A h0g is a hog.
+
+&^%@ 123 
+
