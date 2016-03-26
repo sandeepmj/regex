@@ -5,11 +5,11 @@ Vacca, James	City Council	$112,682	City Council
 Van Bramer, James G	City Council	$112,442	City Council
 Ulrich, Eric	City Council	$112,192	City Council
 Greenfield, David G	City Council	$112,192	City Council
-Cornegy, Robert E, Jr	City Council	$112,192	City Council
+Cornegy, Robert E City Council	$112,192	City Council
 Chin, Margaret	City Council	$112,192	City Council
 Gentile, Vincent J	City Council	$112,192	City Council
-Rodriguez, Ydanis A, Jr.	City Council	$112,192	City Council
-Menchaca, Carlos, Jr.	City Council	$112,192	City Council
+Rodriguez, Ydanis A 	City Council	$112,192	City Council
+Menchaca, Carlos 	City Council	$112,192	City Council
 Rose, Deborah	City Council	$112,192	City Council
 Mendez, Rosaura	City Council	$112,192	City Council
 Crowley, Elizabeth	City Council	$112,192	City Council
