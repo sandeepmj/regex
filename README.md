@@ -7,3 +7,5 @@
 ![][1]
 
 [1]: images/intro-to-regex/2-download-zipped-files-on-github.png
+
+3. Open all files in the command line using Subl .
