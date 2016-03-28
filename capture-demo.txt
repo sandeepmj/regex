@@ -1,3 +1,4 @@
+Animal Quantity Food
 cats 5tuna
 dogs 4duck
 birds 9 seeds
