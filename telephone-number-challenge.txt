@@ -1,11 +1,15 @@
 You may work in teams of two, but really try to figure it out.
 
-
-
 Formulate the Regex required to find the phone numbers in the following string. After you figure it out here, find all the telephone numbers in this file:
 
 jeb-bush-telephone-numbers.txt
 
+Working alone or in twos, formulate the Regex required to capture the phone numbers in : telephone-number-challenge.txt. 
+
+After you figure out the Regex, find all the telephone numbers in this file:
+Jeb-bush-telephone-numbers-challenge.txt
+
+You have 20 minutes to figure out the Regex. The moment you are confident you have the correct answer, fill out this form: http://goo.gl/forms/DVYDltyidY
 
 Class aptent taciti sociosqu 516 123 4567
 
